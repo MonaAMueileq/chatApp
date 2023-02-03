@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183145095304",
+    "project_id": "chatclass-d29b0",
+    "storage_bucket": "chatclass-d29b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183145095304:android:fa9226ea45a457ad8a3f3d",
+        "android_client_info": {
+          "package_name": "com.oalshokri.chat_app_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183145095304-2tnc5utk2ge1j428o0titgf7r4fjo8gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0kU7mPTBqUln0lQfC4VKUPblnRI55uXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183145095304-2tnc5utk2ge1j428o0titgf7r4fjo8gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
